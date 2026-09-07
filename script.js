@@ -33,7 +33,7 @@ const PROJECTS = [
     year: "2023",
     tags: ["Logo Design", "Strategy", "Brand Identity", "Systems"],
     image: "Logo & Brand Identity.jpg",
-    desc: "Brand repositioning and visual identity for a product design consultancy entering the European market."
+    desc: "Crafting distinctive visual identities that elevate brands, build recognition, and leave a lasting impression entering the Real-Estate market."
   }
 ];
 
