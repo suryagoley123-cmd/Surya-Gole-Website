@@ -1,7 +1,7 @@
 const PROJECTS = [
   {
     id: "01",
-    title: "Atelier Nordvik",
+    title: "Surya Gole",
     category: "Brand Identity",
     year: "2025",
     tags: ["Identity", "Print", "Strategy"],
