@@ -13,18 +13,18 @@ const PROJECTS = [
     title: "Posters, Flyers & Print Designs",
     category: "Posters, Flyers & Print Designs",
     year: "2025",
-    tags: ["Identity", "Print Ready Files", "Strategy", "Book Cover"],
+    tags: ["Posters", "Flyers", "Brochures", "Print Ready Files", "Book Cover"],
     image: "Posters.jpg",
-    desc: "Bold, purposeful print designs that capture attention, communicate clearly, and elevate your brand across every physical touchpoint."
+    desc: "Bold, high-impact print designs crafted to capture attention, communicate with clarity, and make your brand stand out in the real world."
   },
   {
     id: "03",
-    title: "Curious Press",
-    category: "Editorial Design",
+    title: "Presentation, Packaging & Merchandise Design",
+    category: "Presentation, Packaging & Merchandise Design",
     year: "2024",
-    tags: ["Books", "Typography", "Print"],
+    tags: ["Presentations", "Packaging", "Merchandise", "Print Production"],
     image: "https://images.unsplash.com/photo-1760702156699-dd893dc7c7cc?w=900&h=680&fit=crop&auto=format",
-    desc: "Series of six literary covers for an independent press — each cover a distinct typographic argument within a unified system."
+    desc: "Thoughtful designs that bring your brand to life across presentations, packaging, and physical products with a polished, cohesive look."
   },
   {
     id: "04",
