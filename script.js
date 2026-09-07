@@ -31,8 +31,8 @@ const PROJECTS = [
     title: "Yeti Homes Estate Pvt. Ltd.",
     category: "Brand Identity & Logo Design",
     year: "2023",
-    tags: ["Strategy", "Identity", "Systems"],
-    image: "https://images.unsplash.com/photo-1645658043538-fc2bb1702cfe?w=900&h=680&fit=crop&auto=format",
+    tags: ["Logo Design", "Strategy", "Brand Identity", "Systems"],
+    image: "Logo & Brand Identity.jpg",
     desc: "Brand repositioning and visual identity for a product design consultancy entering the European market."
   }
 ];
