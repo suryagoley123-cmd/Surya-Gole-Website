@@ -4,9 +4,9 @@ const PROJECTS = [
     title: "Social Media Designs",
     category: "Social Media Designs",
     year: "2025",
-    tags: ["Identity", "Print Ready Files", "Strategy", "Book Cover"],
+    tags: ["Social Media", "Content Design", "Campaigns", "Digital Branding"],
     image: "SocialMedia.jpg",
-    desc: "Bold, purposeful print designs that capture attention, communicate clearly, and elevate your brand across every physical touchpoint."
+    desc: "Strategic, scroll-stopping visuals that strengthen your brand, engage your audience, and keep every platform visually consistent."
   },
   {
     id: "02",
