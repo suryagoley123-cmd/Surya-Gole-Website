@@ -1,22 +1,21 @@
 const PROJECTS = [
   {
     id: "01",
+    title: "Social Media Designs",
+    category: "Social Media Designs",
+    year: "2025",
+    tags: ["Identity", "Print Ready Files", "Strategy", "Book Cover"],
+    image: "SocialMedia.jpg",
+    desc: "Bold, purposeful print designs that capture attention, communicate clearly, and elevate your brand across every physical touchpoint."
+  },
+  id: "02",
     title: "Posters, Flyers & Print Designs",
     category: "Posters, Flyers & Print Designs",
     year: "2025",
     tags: ["Identity", "Print Ready Files", "Strategy", "Book Cover"],
     image: "Posters.jpg",
     desc: "Bold, purposeful print designs that capture attention, communicate clearly, and elevate your brand across every physical touchpoint."
-  },
-  {
-    id: "02",
-    title: "Mural & Motion",
-    category: "Art Direction",
-    year: "2024",
-    tags: ["Art Direction", "Editorial", "Mural"],
-    image: "https://images.unsplash.com/photo-1558707538-c56435bdcdf3?w=900&h=680&fit=crop&auto=format",
-    desc: "Creative direction for a public art campaign spanning 12 cities, bridging street culture and institutional design."
-  },
+},
   {
     id: "03",
     title: "Curious Press",
