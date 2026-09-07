@@ -8,14 +8,15 @@ const PROJECTS = [
     image: "SocialMedia.jpg",
     desc: "Bold, purposeful print designs that capture attention, communicate clearly, and elevate your brand across every physical touchpoint."
   },
-  id: "02",
+  {
+    id: "02",
     title: "Posters, Flyers & Print Designs",
     category: "Posters, Flyers & Print Designs",
     year: "2025",
     tags: ["Identity", "Print Ready Files", "Strategy", "Book Cover"],
     image: "Posters.jpg",
     desc: "Bold, purposeful print designs that capture attention, communicate clearly, and elevate your brand across every physical touchpoint."
-},
+  },
   {
     id: "03",
     title: "Curious Press",
