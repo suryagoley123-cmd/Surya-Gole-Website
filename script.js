@@ -1,12 +1,12 @@
 const PROJECTS = [
   {
     id: "01",
-    title: "Surya Gole",
-    category: "Brand Identity",
+    title: "Posters, Flyers & Print Designs",
+    category: "Posters, Flyers & Print Designs",
     year: "2025",
-    tags: ["Identity", "Print", "Strategy"],
-    image: "https://images.unsplash.com/photo-1772140067286-53a68cedf06e?w=900&h=680&fit=crop&auto=format",
-    desc: "Full identity system for a Scandinavian furniture studio — wordmark, typographic system, and tactile print collateral."
+    tags: ["Identity", "Print Ready Files", "Strategy", "Book Cover"],
+    image: "Posters.jpg",
+    desc: "Bold, purposeful print designs that capture attention, communicate clearly, and elevate your brand across every physical touchpoint."
   },
   {
     id: "02",
